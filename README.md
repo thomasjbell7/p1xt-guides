@@ -71,6 +71,14 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
 
+#### Note from Thomas
+
+I'm doing something a little bit different here - I'll just be working through the entire math programme that Khan Academy offer: [Link](https://www.khanacademy.org/math/). It's been a while since I've done math, so I want to get my basics right before I delve into the deeper stuff.
+
+I plan on going When I hit 100% on a category, I'll move to the next one.
+
+Current Status 22 June 2020: 10% through 3rd Grade: [Link](https://www.khanacademy.org/math/cc-third-grade-math/) 
+
 ### Tier X - Programming Prep Prep
 
 A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
@@ -84,6 +92,10 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+
+#### Note from Thomas
+
+I do have some high level knowledge of most of this (I've attempted learning programming before), so I'm skipping Tier X, and moving straight to Tier 0. I believe that this will be a much better use of my time.
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
